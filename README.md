@@ -77,14 +77,6 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dhykas/dhykas/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dhykas/dhykas/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://profile-readme-generator.com/assets/pacman.svg">
-</picture>
-
-###
-
 <div align="center">
   <a href="https://open.spotify.com/user/Andhika saputra">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=21v7suq7ads22ezld5ian5kny" alt="Spotify recently played"  />
